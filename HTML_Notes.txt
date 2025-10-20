@@ -1,1 +1,3 @@
 HTML entities or named character references - &lt;&gt;
+SVG stands for a scalable vector graphic
+replaced element - iframe you can only adjucth layout and positioning. you cannot change the contents
