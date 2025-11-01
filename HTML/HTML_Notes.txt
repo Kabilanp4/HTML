@@ -5,3 +5,7 @@ replaced element - iframe you can only adjucth layout and positioning. you canno
 absolute path vs relative path
 
 when to use description list - key - value pair format
+
+Radio buttons - name property should be same for all the options.
+
+label and input exlicit association - labels' for and input's id property should be the same.

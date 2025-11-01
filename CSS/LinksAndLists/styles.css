@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  color: green;
+}
+a:visited {
+  color: brown;
+}
+a:hover {
+  color: chocolate;
+}
+a:focus {
+  outline: 2px solid black;
+}
+a:active {
+  color: red;
+}
